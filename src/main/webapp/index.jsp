@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>laxmanraj!</title>
+<title>pranith!</title>
 </head>
 <body>
 	<h1>welcome to hyd!</h1>
